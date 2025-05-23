@@ -6,3 +6,10 @@ layout: home
 ---
 
 hi :3
+
+
+links:  
+linktree: [https://linktr.ee/slimeinacloak](https://linktr.ee/slimeinacloak)  
+github: [https://github.com/slimeinacloak/](https://github.com/slimeinacloak/)  
+youtube: [https://www.youtube.com/@slimeinacloak](https://www.youtube.com/@slimeinacloak)  
+buymeacoffee: [https://slimeinacloak.github.io/crypto](https://slimeinacloak.github.io/crypto)
